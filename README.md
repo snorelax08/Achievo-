@@ -1,7 +1,7 @@
 # Achievo - Your Path to Success !! 
 Welcome to Achievo - Your Productivity Companion!
 
-AHIEVO is  a  productivity web application which aims to maximise user productivity using scientific techniques , tips and tricks
+ACHIEVO is  a  productivity web application which aims to maximise user productivity using scientific techniques , tips and tricks
 it is a user-centric web application meticulously crafted to propel you towards success by enhancing your focus, motivation, and productivity. With an array of powerful features and a thoughtful design, Achievo aims to empower you in achieving your dreams and making progress in all aspects of life.
 ## Table of Contents
 - [Introduction](#introduction)
